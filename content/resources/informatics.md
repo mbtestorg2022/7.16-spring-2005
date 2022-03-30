@@ -9,6 +9,7 @@ description: This file contains the instructions about how to Search GenBank for
   genes, and get the clone ID and catalog number.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/9e422cfc05a07160fb051b0f60c05b43_informatics.pdf
 file_type: application/pdf
+parent_uid: 58f863bf-85bc-616f-511b-e276e701338f
 resourcetype: Document
 title: informatics.pdf
 uid: 9e422cfc-05a0-7160-fb05-1b0f60c05b43
